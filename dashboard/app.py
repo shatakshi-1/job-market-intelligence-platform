@@ -16,8 +16,8 @@ st.set_page_config(
     layout="wide"
 )
 
-PATH = "C:/Users/shata/OneDrive/Desktop/Buildinga job market intelligence platform/"
-
+import os
+PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "/"
 # ══════════════════════════════════════════════════════════
 # LOAD DATA & MODEL
 # ══════════════════════════════════════════════════════════
