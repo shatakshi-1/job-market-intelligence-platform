@@ -287,9 +287,7 @@ elif page == "🌍 India vs Global":
                               .reindex(order)
                               .reset_index())
         exp_salary.columns = ['Experience', 'Avg Salary (USD)']
-        fig = px.bar(exp_salary, x='Experience', y='Avg Salary (USD)',
-                     color='Experience',
-                     color_discrete_sequence=px.colors.qualitative.Set2)
+        fig = px.bar(exp_salary, x='Experience', y='Avg Salary (USD)')
         fig.update_layout(showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
 
