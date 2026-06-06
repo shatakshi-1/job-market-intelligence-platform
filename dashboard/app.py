@@ -168,7 +168,6 @@ elif page == "💰 Salary Explorer":
     )
     size_order = ['Small', 'Medium', 'Large']
     fig = px.violin(salaries, x='company_size_label', y='salary_avg',
-                    category_orders={'company_size_label': size_order},
                     color='company_size_label', box=True,
                     labels={'salary_avg': 'Salary (USD)',
                             'company_size_label': 'Company Size'},
