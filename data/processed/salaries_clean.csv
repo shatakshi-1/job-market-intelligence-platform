@@ -1,0 +1,608 @@
+job_title,experience_level,employment_type,salary_avg,company_size,employee_residence,company_location,remote_ratio,work_mode,salary_min,salary_max,source,currency
+Data Scientist,Mid,Full-Time,79833,L,DE,DE,0,On-site,67858,91807,DS_Salaries,USD
+Machine Learning Scientist,Senior,Full-Time,260000,S,JP,JP,0,On-site,221000,299000,DS_Salaries,USD
+Big Data Engineer,Senior,Full-Time,109024,M,GB,GB,50,Hybrid,92670,125377,DS_Salaries,USD
+Product Data Analyst,Mid,Full-Time,20000,S,HN,HN,0,On-site,17000,23000,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,150000,L,US,US,50,Hybrid,127500,172500,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,72000,L,US,US,100,Remote,61200,82800,DS_Salaries,USD
+Lead Data Scientist,Senior,Full-Time,190000,S,US,US,100,Remote,161500,218499,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,35735,L,HU,HU,50,Hybrid,30374,41095,DS_Salaries,USD
+Business Data Analyst,Mid,Full-Time,135000,L,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Lead Data Engineer,Senior,Full-Time,125000,S,NZ,NZ,50,Hybrid,106250,143750,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,51321,S,FR,FR,0,On-site,43622,59019,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,40481,L,IN,IN,0,On-site,34408,46553,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,39916,M,FR,FR,0,On-site,33928,45903,DS_Salaries,USD
+Lead Data Analyst,Mid,Full-Time,87000,L,US,US,100,Remote,73950,100049,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,85000,L,US,US,100,Remote,72250,97749,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,8000,L,PK,PK,50,Hybrid,6800,9200,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,41689,S,JP,JP,100,Remote,35435,47942,DS_Salaries,USD
+Big Data Engineer,Senior,Full-Time,114047,S,PL,GB,100,Remote,96939,131154,DS_Salaries,USD
+Data Science Consultant,Entry,Full-Time,5707,M,IN,IN,50,Hybrid,4850,6563,DS_Salaries,USD
+Lead Data Engineer,Mid,Full-Time,56000,M,PT,US,100,Remote,47600,64399,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,43331,M,CN,CN,0,On-site,36831,49830,DS_Salaries,USD
+Product Data Analyst,Mid,Full-Time,6072,L,IN,IN,100,Remote,5161,6982,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,47899,L,GR,GR,50,Hybrid,40714,55083,DS_Salaries,USD
+BI Data Analyst,Mid,Full-Time,98000,M,US,US,0,On-site,83300,112699,DS_Salaries,USD
+Lead Data Scientist,Mid,Full-Time,115000,L,AE,AE,0,On-site,97750,132250,DS_Salaries,USD
+Director of Data Science,Executive,Full-Time,325000,L,US,US,100,Remote,276250,373750,DS_Salaries,USD
+Research Scientist,Entry,Full-Time,42000,L,NL,NL,50,Hybrid,35700,48299,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,33511,S,MX,MX,0,On-site,28484,38537,DS_Salaries,USD
+Business Data Analyst,Entry,Contract,100000,L,US,US,100,Remote,85000,114999,DS_Salaries,USD
+Machine Learning Manager,Senior,Full-Time,117104,L,CA,CA,50,Hybrid,99538,134669,DS_Salaries,USD
+Data Engineering Manager,Mid,Full-Time,59303,S,DE,DE,100,Remote,50407,68198,DS_Salaries,USD
+Big Data Engineer,Entry,Full-Time,70000,L,US,US,100,Remote,59500,80500,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,68428,L,GR,US,100,Remote,58163,78692,DS_Salaries,USD
+Research Scientist,Mid,Full-Time,450000,M,US,US,0,On-site,382500,517499,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,46759,L,FR,FR,50,Hybrid,39745,53772,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,74130,L,AT,AT,50,Hybrid,63010,85249,DS_Salaries,USD
+Data Science Consultant,Mid,Full-Time,103000,L,US,US,100,Remote,87550,118449,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,250000,L,US,US,50,Hybrid,212500,287500,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,10000,S,NG,NG,100,Remote,8500,11500,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,138000,S,US,US,100,Remote,117300,158700,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,45760,S,PH,US,100,Remote,38896,52623,DS_Salaries,USD
+Data Engineering Manager,Executive,Full-Time,79833,L,ES,ES,50,Hybrid,67858,91807,DS_Salaries,USD
+Machine Learning Infrastructure Engineer,Mid,Full-Time,50180,M,PT,PT,0,On-site,42653,57706,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,106000,L,US,US,100,Remote,90100,121899,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,112872,L,GB,GB,50,Hybrid,95941,129802,DS_Salaries,USD
+ML Engineer,Entry,Part-Time,15966,S,DE,DE,100,Remote,13571,18360,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,76958,S,GB,GB,100,Remote,65414,88501,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,188000,L,US,US,100,Remote,159800,216199,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,105000,L,US,US,100,Remote,89250,120749,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,70139,L,FR,FR,50,Hybrid,59618,80659,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,6072,S,IN,IN,0,On-site,5161,6982,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,91000,L,US,US,100,Remote,77350,104649,DS_Salaries,USD
+AI Scientist,Entry,Full-Time,45896,S,DK,DK,50,Hybrid,39011,52780,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,54742,L,PK,DE,100,Remote,46530,62953,DS_Salaries,USD
+Computer Vision Engineer,Senior,Freelance,60000,S,RU,US,100,Remote,51000,69000,DS_Salaries,USD
+Principal Data Scientist,Senior,Full-Time,148261,M,DE,DE,100,Remote,126021,170500,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,38776,M,ES,ES,100,Remote,32959,44592,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,118000,M,US,US,100,Remote,100300,135700,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,120000,L,US,US,50,Hybrid,102000,138000,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,138350,M,US,US,100,Remote,117597,159102,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,110000,L,US,US,100,Remote,93500,126499,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,130800,M,ES,US,100,Remote,111180,150420,DS_Salaries,USD
+Data Scientist,Entry,Part-Time,21669,S,IT,IT,50,Hybrid,18418,24919,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,412000,L,US,US,100,Remote,350200,473799,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,45618,S,HR,HR,100,Remote,38775,52460,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,62726,S,DE,DE,50,Hybrid,53317,72134,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,49268,S,DE,DE,0,On-site,41877,56658,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,190200,M,US,US,100,Remote,161670,218729,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,105000,S,US,US,100,Remote,89250,120749,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,91237,S,AT,AT,0,On-site,77551,104922,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,62726,S,FR,LU,50,Hybrid,53317,72134,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,42197,S,FR,FR,50,Hybrid,35867,48526,DS_Salaries,USD
+Research Scientist,Entry,Full-Time,82528,L,GB,GB,50,Hybrid,70148,94907,DS_Salaries,USD
+BI Data Analyst,Executive,Full-Time,150000,L,IN,US,100,Remote,127500,172500,DS_Salaries,USD
+Head of Data,Executive,Full-Time,235000,L,US,US,100,Remote,199750,270250,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,53192,L,FR,FR,50,Hybrid,45213,61170,DS_Salaries,USD
+BI Data Analyst,Mid,Full-Time,100000,M,US,US,100,Remote,85000,114999,DS_Salaries,USD
+3D Computer Vision Researcher,Mid,Part-Time,5409,M,IN,IN,50,Hybrid,4597,6220,DS_Salaries,USD
+ML Engineer,Mid,Contract,270000,L,US,US,100,Remote,229500,310500,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,80000,M,US,US,100,Remote,68000,92000,DS_Salaries,USD
+Data Analytics Engineer,Senior,Full-Time,79197,L,DE,DE,100,Remote,67317,91076,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,140000,L,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Applied Data Scientist,Mid,Full-Time,54238,L,GB,CA,50,Hybrid,46102,62373,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,47282,S,ES,ES,100,Remote,40189,54374,DS_Salaries,USD
+Director of Data Science,Executive,Full-Time,153667,L,IT,PL,100,Remote,130616,176717,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,28476,L,PL,PL,100,Remote,24204,32747,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,59102,M,FR,FR,50,Hybrid,50236,67967,DS_Salaries,USD
+Data Analytics Engineer,Mid,Full-Time,110000,L,US,US,100,Remote,93500,126499,DS_Salaries,USD
+Lead Data Analyst,Senior,Full-Time,170000,L,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,80000,S,BG,US,100,Remote,68000,92000,DS_Salaries,USD
+Marketing Data Analyst,Senior,Full-Time,88654,L,GR,DK,100,Remote,75355,101952,DS_Salaries,USD
+Data Science Consultant,Entry,Full-Time,76833,S,DE,DE,100,Remote,65308,88357,DS_Salaries,USD
+Lead Data Analyst,Mid,Full-Time,19609,L,IN,IN,100,Remote,16667,22550,DS_Salaries,USD
+Lead Data Engineer,Senior,Full-Time,276000,L,US,US,0,On-site,234600,317400,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,29751,L,IN,IN,50,Hybrid,25288,34213,DS_Salaries,USD
+Cloud Data Engineer,Mid,Full-Time,89294,L,SG,SG,50,Hybrid,75899,102688,DS_Salaries,USD
+AI Scientist,Entry,Part-Time,12000,S,BR,US,100,Remote,10200,13799,DS_Salaries,USD
+Financial Data Analyst,Mid,Full-Time,450000,L,US,US,100,Remote,382500,517499,DS_Salaries,USD
+Computer Vision Software Engineer,Entry,Full-Time,70000,M,US,US,100,Remote,59500,80500,DS_Salaries,USD
+Computer Vision Software Engineer,Mid,Full-Time,95746,S,DE,US,100,Remote,81384,110107,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,75000,L,US,US,0,On-site,63750,86250,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,150000,L,US,US,100,Remote,127500,172500,DS_Salaries,USD
+BI Data Analyst,Mid,Full-Time,36259,L,HU,US,50,Hybrid,30820,41697,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,62000,L,US,US,0,On-site,52700,71300,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,73000,L,US,US,0,On-site,62050,83950,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,51519,L,GB,GB,50,Hybrid,43791,59246,DS_Salaries,USD
+Research Scientist,Mid,Full-Time,187442,L,CA,CA,100,Remote,159325,215558,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,115000,S,US,US,100,Remote,97750,132250,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,150000,M,US,US,100,Remote,127500,172500,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,30428,L,IN,IN,100,Remote,25863,34992,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,94564,L,DE,DE,50,Hybrid,80379,108748,DS_Salaries,USD
+Director of Data Engineering,Senior,Full-Time,113476,M,GB,GB,100,Remote,96454,130497,DS_Salaries,USD
+Lead Data Engineer,Senior,Full-Time,103160,S,GB,GB,100,Remote,87686,118633,DS_Salaries,USD
+AI Scientist,Entry,Part-Time,12000,M,PK,US,100,Remote,10200,13799,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,45391,L,NL,NL,100,Remote,38582,52199,DS_Salaries,USD
+Machine Learning Scientist,Entry,Full-Time,225000,L,US,US,100,Remote,191250,258749,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,50000,L,NG,NG,100,Remote,42500,57499,DS_Salaries,USD
+Data Science Engineer,Mid,Full-Time,40189,M,GR,GR,100,Remote,34160,46217,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,90000,S,US,US,100,Remote,76500,103499,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,200000,L,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Big Data Engineer,Mid,Full-Time,60000,M,ES,RO,50,Hybrid,51000,69000,DS_Salaries,USD
+Principal Data Engineer,Senior,Full-Time,200000,M,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,50000,M,US,US,100,Remote,42500,57499,DS_Salaries,USD
+Applied Data Scientist,Entry,Full-Time,110037,L,GB,GB,0,On-site,93531,126542,DS_Salaries,USD
+Data Analyst,Entry,Part-Time,10354,M,ES,ES,50,Hybrid,8800,11907,DS_Salaries,USD
+Principal Data Scientist,Mid,Full-Time,151000,L,US,US,100,Remote,128350,173650,DS_Salaries,USD
+Machine Learning Scientist,Senior,Full-Time,120000,S,US,US,50,Hybrid,102000,138000,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,9466,S,IN,IN,0,On-site,8046,10885,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,20000,S,IN,IN,100,Remote,17000,23000,DS_Salaries,USD
+Lead Data Scientist,Senior,Full-Time,40570,L,IN,IN,50,Hybrid,34484,46655,DS_Salaries,USD
+Machine Learning Developer,Entry,Full-Time,100000,S,IQ,IQ,50,Hybrid,85000,114999,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,49646,M,FR,FR,50,Hybrid,42199,57092,DS_Salaries,USD
+Applied Machine Learning Scientist,Mid,Full-Time,38400,M,VN,US,100,Remote,32640,44160,DS_Salaries,USD
+Computer Vision Engineer,Senior,Full-Time,24000,M,BR,BR,100,Remote,20400,27599,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,100000,S,US,US,0,On-site,85000,114999,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,90000,M,US,US,100,Remote,76500,103499,DS_Salaries,USD
+ML Engineer,Mid,Full-Time,63711,S,JP,JP,50,Hybrid,54154,73267,DS_Salaries,USD
+ML Engineer,Mid,Full-Time,77364,S,JP,JP,50,Hybrid,65759,88968,DS_Salaries,USD
+Principal Data Scientist,Senior,Full-Time,220000,L,US,US,0,On-site,187000,252999,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,80000,M,US,US,100,Remote,68000,92000,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,135000,L,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,240000,L,US,US,0,On-site,204000,276000,DS_Salaries,USD
+Data Engineering Manager,Senior,Full-Time,150000,L,US,US,0,On-site,127500,172500,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,82500,S,US,US,100,Remote,70125,94874,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,100000,L,US,US,100,Remote,85000,114999,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,82744,M,BE,BE,50,Hybrid,70332,95155,DS_Salaries,USD
+Research Scientist,Mid,Full-Time,62649,M,FR,FR,50,Hybrid,53251,72046,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,90000,L,US,US,100,Remote,76500,103499,DS_Salaries,USD
+Data Engineering Manager,Senior,Full-Time,153000,L,US,US,100,Remote,130050,175950,DS_Salaries,USD
+Cloud Data Engineer,Senior,Full-Time,160000,S,BR,US,100,Remote,136000,184000,DS_Salaries,USD
+Director of Data Science,Senior,Full-Time,168000,S,JP,JP,0,On-site,142800,193199,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,150000,M,US,US,100,Remote,127500,172500,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,75774,L,CA,CA,100,Remote,64407,87140,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,13400,L,UA,UA,100,Remote,11390,15409,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,144000,L,US,US,100,Remote,122400,165600,DS_Salaries,USD
+Data Science Engineer,Senior,Full-Time,127221,L,CA,CA,50,Hybrid,108137,146304,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,119059,M,SG,IL,100,Remote,101200,136917,DS_Salaries,USD
+Applied Machine Learning Scientist,Mid,Full-Time,423000,L,US,US,50,Hybrid,359550,486449,DS_Salaries,USD
+Data Analytics Manager,Senior,Full-Time,120000,M,US,US,100,Remote,102000,138000,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,125000,S,US,US,100,Remote,106250,143750,DS_Salaries,USD
+Head of Data,Executive,Full-Time,230000,L,RU,RU,50,Hybrid,195500,264500,DS_Salaries,USD
+Head of Data Science,Executive,Full-Time,85000,M,RU,RU,0,On-site,72250,97749,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,28369,L,MT,MT,50,Hybrid,24113,32624,DS_Salaries,USD
+Data Science Consultant,Entry,Full-Time,63831,L,DE,DE,50,Hybrid,54256,73405,DS_Salaries,USD
+Director of Data Science,Executive,Full-Time,130026,M,DE,DE,50,Hybrid,110522,149529,DS_Salaries,USD
+Data Specialist,Senior,Full-Time,165000,L,US,US,100,Remote,140250,189749,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,80000,L,US,US,100,Remote,68000,92000,DS_Salaries,USD
+Director of Data Science,Executive,Full-Time,250000,L,US,US,0,On-site,212500,287500,DS_Salaries,USD
+BI Data Analyst,Entry,Full-Time,55000,S,US,US,50,Hybrid,46750,63249,DS_Salaries,USD
+Data Architect,Mid,Full-Time,150000,L,US,US,100,Remote,127500,172500,DS_Salaries,USD
+Data Architect,Mid,Full-Time,170000,L,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,82528,L,GB,GB,100,Remote,70148,94907,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,60000,S,US,US,100,Remote,51000,69000,DS_Salaries,USD
+Principal Data Scientist,Senior,Full-Time,235000,L,US,US,100,Remote,199750,270250,DS_Salaries,USD
+Research Scientist,Senior,Full-Time,60757,L,PT,PT,50,Hybrid,51643,69870,DS_Salaries,USD
+Data Engineering Manager,Senior,Full-Time,174000,L,US,US,100,Remote,147900,200099,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,2859,S,MX,MX,0,On-site,2430,3287,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,40038,L,CL,CL,100,Remote,34032,46043,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,81000,S,US,US,50,Hybrid,68850,93150,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,5679,S,IN,US,100,Remote,4827,6530,DS_Salaries,USD
+Big Data Engineer,Mid,Full-Time,22611,L,IN,IN,0,On-site,19219,26002,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,90734,L,DE,DE,50,Hybrid,77123,104344,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,26005,L,RO,US,0,On-site,22104,29905,DS_Salaries,USD
+Finance Data Analyst,Senior,Full-Time,61896,L,GB,GB,50,Hybrid,52611,71180,DS_Salaries,USD
+Machine Learning Scientist,Mid,Freelance,12000,M,PK,PK,50,Hybrid,10200,13799,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,4000,M,IR,IR,100,Remote,3400,4600,DS_Salaries,USD
+Data Analytics Engineer,Senior,Full-Time,50000,M,VN,GB,100,Remote,42500,57499,DS_Salaries,USD
+Data Science Consultant,Executive,Full-Time,69741,S,FR,ES,100,Remote,59279,80202,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,76833,S,RO,GB,50,Hybrid,65308,88357,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,74000,S,JP,JP,50,Hybrid,62900,85100,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,152000,L,US,FR,100,Remote,129200,174800,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,21844,M,CO,CO,50,Hybrid,18567,25120,DS_Salaries,USD
+Big Data Engineer,Mid,Full-Time,18000,S,MD,MD,0,On-site,15300,20700,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,174000,L,US,US,100,Remote,147900,200099,DS_Salaries,USD
+Research Scientist,Senior,Full-Time,96113,L,CA,CA,50,Hybrid,81696,110529,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,147000,L,US,US,50,Hybrid,124950,169050,DS_Salaries,USD
+BI Data Analyst,Entry,Full-Time,9272,S,KE,KE,100,Remote,7881,10662,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,24342,L,IN,IN,100,Remote,20690,27993,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,54094,L,IN,US,50,Hybrid,45979,62208,DS_Salaries,USD
+Data Science Consultant,Entry,Full-Time,90000,S,US,US,100,Remote,76500,103499,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,61467,M,DE,AT,50,Hybrid,52246,70687,DS_Salaries,USD
+Machine Learning Infrastructure Engineer,Senior,Full-Time,195000,M,US,US,100,Remote,165750,224249,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,37825,L,ES,ES,100,Remote,32151,43498,DS_Salaries,USD
+Research Scientist,Senior,Full-Time,50000,S,FR,US,100,Remote,42500,57499,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,160000,L,US,US,100,Remote,136000,184000,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,12901,S,BR,BR,0,On-site,10965,14836,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,200000,L,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,165000,M,US,US,0,On-site,140250,189749,DS_Salaries,USD
+Data Engineer,Mid,Freelance,20000,L,IT,US,0,On-site,17000,23000,DS_Salaries,USD
+Data Analytics Manager,Senior,Full-Time,120000,L,US,US,0,On-site,102000,138000,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,24823,L,SI,SI,50,Hybrid,21099,28546,DS_Salaries,USD
+Research Scientist,Mid,Full-Time,56738,S,FR,FR,50,Hybrid,48227,65248,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,66022,S,HK,GB,50,Hybrid,56118,75925,DS_Salaries,USD
+Big Data Engineer,Entry,Full-Time,5882,L,IN,CH,0,On-site,4999,6764,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,24823,M,DE,DE,50,Hybrid,21099,28546,DS_Salaries,USD
+Principal Data Engineer,Senior,Full-Time,185000,L,US,US,100,Remote,157250,212749,DS_Salaries,USD
+Computer Vision Engineer,Entry,Part-Time,28609,S,DK,DK,50,Hybrid,24317,32900,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,90734,L,DE,DE,50,Hybrid,77123,104344,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,88654,M,BE,BE,100,Remote,75355,101952,DS_Salaries,USD
+Data Analytics Manager,Senior,Full-Time,140000,L,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,46597,L,PL,PL,100,Remote,39607,53586,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,116914,L,GB,GB,50,Hybrid,99376,134451,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,33808,M,IN,IN,0,On-site,28736,38879,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,56256,L,GB,GB,50,Hybrid,47817,64694,DS_Salaries,USD
+Machine Learning Scientist,Senior,Full-Time,225000,L,US,CA,100,Remote,191250,258749,DS_Salaries,USD
+Principal Data Scientist,Executive,Contract,416000,S,US,US,100,Remote,353600,478399,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,87738,S,CA,CA,100,Remote,74577,100898,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,88654,L,DE,DE,50,Hybrid,75355,101952,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,135000,L,US,US,0,On-site,114750,155250,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,71786,M,CA,CA,100,Remote,61018,82553,DS_Salaries,USD
+Big Data Engineer,Entry,Full-Time,16228,L,IN,IN,100,Remote,13793,18662,DS_Salaries,USD
+ML Engineer,Senior,Full-Time,256000,S,US,US,100,Remote,217600,294400,DS_Salaries,USD
+Director of Data Engineering,Senior,Full-Time,200000,L,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,200000,L,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Data Architect,Mid,Full-Time,180000,L,US,US,100,Remote,153000,206999,DS_Salaries,USD
+Head of Data Science,Mid,Full-Time,110000,S,US,US,0,On-site,93500,126499,DS_Salaries,USD
+Research Scientist,Mid,Full-Time,63810,M,CA,CA,100,Remote,54238,73381,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,46809,M,ES,ES,100,Remote,39787,53830,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,4000,M,VN,VN,0,On-site,3400,4600,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,21637,M,IN,IN,50,Hybrid,18391,24882,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,103691,L,CA,CA,100,Remote,88137,119244,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,80000,L,US,US,100,Remote,68000,92000,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,110000,L,US,US,100,Remote,93500,126499,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,165000,L,US,US,100,Remote,140250,189749,DS_Salaries,USD
+AI Scientist,Entry,Full-Time,18053,S,IN,AS,100,Remote,15345,20760,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,72212,L,GB,GB,50,Hybrid,61380,83043,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,36643,L,FR,FR,50,Hybrid,31146,42139,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,12103,M,TR,TR,0,On-site,10287,13918,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,96282,L,GB,GB,50,Hybrid,81839,110724,DS_Salaries,USD
+Principal Data Analyst,Senior,Full-Time,170000,M,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,115000,L,US,US,50,Hybrid,97750,132250,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,90000,S,US,US,100,Remote,76500,103499,DS_Salaries,USD
+Principal Data Engineer,Executive,Full-Time,600000,L,US,US,100,Remote,510000,690000,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,28399,M,IN,IN,100,Remote,24139,32658,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,93000,L,US,US,100,Remote,79050,106949,DS_Salaries,USD
+Big Data Architect,Senior,Full-Time,99703,M,CA,CA,50,Hybrid,84747,114658,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,200000,L,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Principal Data Scientist,Senior,Full-Time,173762,M,DE,DE,100,Remote,147697,199826,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,185000,L,US,US,50,Hybrid,157250,212749,DS_Salaries,USD
+Director of Data Science,Executive,Full-Time,141846,L,DE,DE,0,On-site,120569,163122,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,130000,L,US,US,50,Hybrid,110500,149500,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,63831,L,DE,DE,50,Hybrid,54256,73405,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,16904,S,IN,IN,100,Remote,14368,19439,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,66265,L,IN,IN,0,On-site,56325,76204,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,25532,S,RS,DE,100,Remote,21702,29361,DS_Salaries,USD
+Lead Data Engineer,Senior,Full-Time,160000,S,PR,US,50,Hybrid,136000,184000,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,93150,M,US,US,0,On-site,79177,107122,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,111775,M,US,US,0,On-site,95008,128541,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,28016,M,TR,TR,100,Remote,23813,32218,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,65013,M,DE,DE,50,Hybrid,55261,74764,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,72500,L,US,US,100,Remote,61625,83375,DS_Salaries,USD
+Computer Vision Engineer,Senior,Full-Time,18907,M,BR,BR,0,On-site,16070,21743,DS_Salaries,USD
+Data Science Consultant,Entry,Full-Time,76833,L,DE,DE,0,On-site,65308,88357,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,85000,S,NL,DE,100,Remote,72250,97749,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,77684,M,FR,FR,50,Hybrid,66031,89336,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,100000,M,US,US,100,Remote,85000,114999,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,58000,L,US,US,50,Hybrid,49300,66700,DS_Salaries,USD
+AI Scientist,Senior,Full-Time,55000,L,ES,ES,100,Remote,46750,63249,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,20171,L,TR,TR,50,Hybrid,17145,23196,DS_Salaries,USD
+Business Data Analyst,Entry,Full-Time,59102,L,LU,LU,100,Remote,50236,67967,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,112000,L,US,US,100,Remote,95200,128799,DS_Salaries,USD
+Research Scientist,Entry,Full-Time,100000,L,JE,CN,0,On-site,85000,114999,DS_Salaries,USD
+Data Engineer,Mid,Part-Time,69741,L,NL,NL,100,Remote,59279,80202,DS_Salaries,USD
+Staff Data Scientist,Senior,Contract,105000,M,US,US,100,Remote,89250,120749,DS_Salaries,USD
+Research Scientist,Mid,Full-Time,69999,L,CZ,CZ,50,Hybrid,59499,80498,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,94665,L,IN,IN,50,Hybrid,80465,108864,DS_Salaries,USD
+Head of Data,Senior,Full-Time,102839,L,SI,SI,100,Remote,87413,118264,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,109000,L,US,US,50,Hybrid,92650,125349,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,51064,L,IT,IT,50,Hybrid,43404,58723,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,135000,M,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,155000,M,US,US,100,Remote,131750,178250,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,120600,M,US,US,100,Remote,102510,138690,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,130000,M,US,US,0,On-site,110500,149500,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,90000,M,US,US,0,On-site,76500,103499,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,170000,M,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,150000,M,US,US,100,Remote,127500,172500,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,102100,M,US,US,100,Remote,86785,117414,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,84900,M,US,US,100,Remote,72165,97634,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,136620,M,US,US,100,Remote,116127,157113,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,99360,M,US,US,100,Remote,84456,114263,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,117789,M,GB,GB,0,On-site,100120,135457,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,104702,M,GB,GB,0,On-site,88996,120407,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,146000,M,US,US,100,Remote,124100,167900,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,123000,M,US,US,100,Remote,104550,141450,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,52351,M,GB,GB,100,Remote,44498,60203,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,99000,M,US,US,0,On-site,84150,113849,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,116000,M,US,US,0,On-site,98600,133400,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,106260,M,US,US,0,On-site,90321,122198,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,126500,M,US,US,0,On-site,107525,145475,DS_Salaries,USD
+Data Engineer,Executive,Full-Time,242000,M,US,US,100,Remote,205700,278300,DS_Salaries,USD
+Data Engineer,Executive,Full-Time,200000,M,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,65438,M,GB,GB,0,On-site,55622,75253,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,39263,M,GB,GB,0,On-site,33373,45152,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,78526,M,GB,GB,0,On-site,66747,90304,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,52351,M,GB,GB,0,On-site,44498,60203,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,165220,M,US,US,100,Remote,140437,190002,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,45807,M,GB,GB,100,Remote,38935,52678,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,120160,M,US,US,100,Remote,102136,138184,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,90320,M,US,US,100,Remote,76772,103867,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,181940,M,US,US,0,On-site,154649,209230,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,132320,M,US,US,0,On-site,112472,152168,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,220110,M,US,US,0,On-site,187093,253126,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,160080,M,US,US,0,On-site,136068,184092,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,180000,L,US,US,0,On-site,153000,206999,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,120000,L,US,US,0,On-site,102000,138000,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,124190,M,US,US,100,Remote,105561,142818,DS_Salaries,USD
+Data Analyst,Executive,Full-Time,130000,M,US,US,100,Remote,110500,149500,DS_Salaries,USD
+Data Analyst,Executive,Full-Time,110000,M,US,US,100,Remote,93500,126499,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,170000,M,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,115500,M,US,US,100,Remote,98175,132825,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,112900,M,US,US,100,Remote,95965,129834,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,90320,M,US,US,100,Remote,76772,103867,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,112900,M,US,US,100,Remote,95965,129834,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,90320,M,US,US,100,Remote,76772,103867,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,165400,M,US,US,100,Remote,140590,190209,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,132320,M,US,US,100,Remote,112472,152168,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,167000,M,US,US,100,Remote,141950,192049,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,243900,M,US,US,100,Remote,207315,280485,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,136600,M,US,US,100,Remote,116110,157090,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,109280,M,US,US,100,Remote,92888,125671,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,128875,M,US,US,100,Remote,109543,148206,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,93700,M,US,US,100,Remote,79645,107754,DS_Salaries,USD
+Head of Data Science,Executive,Full-Time,224000,M,US,US,100,Remote,190400,257599,DS_Salaries,USD
+Head of Data Science,Executive,Full-Time,167875,M,US,US,100,Remote,142693,193056,DS_Salaries,USD
+Analytics Engineer,Executive,Full-Time,175000,M,US,US,100,Remote,148750,201249,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,156600,M,US,US,100,Remote,133110,180090,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,108800,M,US,US,0,On-site,92480,125119,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,95550,M,US,US,0,On-site,81217,109882,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,113000,L,US,US,0,On-site,96050,129949,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,135000,M,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,161342,M,US,US,100,Remote,137140,185543,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,137141,M,US,US,100,Remote,116569,157712,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,167000,M,US,US,100,Remote,141950,192049,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,123000,M,US,US,100,Remote,104550,141450,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,78526,M,GB,GB,0,On-site,66747,90304,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,65438,M,GB,GB,0,On-site,55622,75253,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,150000,M,US,US,0,On-site,127500,172500,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,211500,M,US,US,100,Remote,179775,243224,DS_Salaries,USD
+Data Architect,Senior,Full-Time,192400,M,CA,CA,100,Remote,163540,221259,DS_Salaries,USD
+Data Architect,Senior,Full-Time,90700,M,CA,CA,100,Remote,77095,104304,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,130000,M,CA,CA,100,Remote,110500,149500,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,61300,M,CA,CA,100,Remote,52105,70495,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,130000,M,CA,CA,100,Remote,110500,149500,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,61300,M,CA,CA,100,Remote,52105,70495,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,160000,L,US,US,0,On-site,136000,184000,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,138600,M,US,US,100,Remote,117810,159390,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,136000,M,US,US,0,On-site,115600,156400,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,58000,S,US,US,0,On-site,49300,66700,DS_Salaries,USD
+Analytics Engineer,Executive,Full-Time,135000,M,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,170000,M,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,123000,M,US,US,100,Remote,104550,141450,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,189650,M,US,US,0,On-site,161202,218097,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,164996,M,US,US,0,On-site,140246,189745,DS_Salaries,USD
+ETL Developer,Mid,Full-Time,54957,M,GR,GR,0,On-site,46713,63200,DS_Salaries,USD
+ETL Developer,Mid,Full-Time,54957,M,GR,GR,0,On-site,46713,63200,DS_Salaries,USD
+Lead Data Engineer,Executive,Full-Time,118187,S,CA,CA,100,Remote,100458,135915,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,132000,M,US,US,0,On-site,112200,151800,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,165400,M,US,US,100,Remote,140590,190209,DS_Salaries,USD
+Data Architect,Senior,Full-Time,208775,M,US,US,100,Remote,177458,240091,DS_Salaries,USD
+Data Architect,Senior,Full-Time,147800,M,US,US,100,Remote,125630,169970,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,136994,M,US,US,100,Remote,116444,157543,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,101570,M,US,US,100,Remote,86334,116805,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,128875,M,US,US,100,Remote,109543,148206,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,93700,M,US,US,100,Remote,79645,107754,DS_Salaries,USD
+Head of Machine Learning,Executive,Full-Time,79039,L,IN,IN,50,Hybrid,67183,90894,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,132320,M,US,US,100,Remote,112472,152168,DS_Salaries,USD
+Machine Learning Engineer,Entry,Full-Time,37300,L,GB,GB,100,Remote,31705,42895,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,164000,M,US,US,0,On-site,139400,188599,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,155000,M,US,US,100,Remote,131750,178250,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,124333,M,GB,GB,0,On-site,105683,142982,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,98158,M,GB,GB,0,On-site,83434,112881,DS_Salaries,USD
+AI Scientist,Mid,Full-Time,120000,M,US,US,0,On-site,102000,138000,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,112900,M,US,US,100,Remote,95965,129834,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,90320,M,US,US,100,Remote,76772,103867,DS_Salaries,USD
+Data Analytics Manager,Senior,Full-Time,145000,M,US,US,100,Remote,123250,166750,DS_Salaries,USD
+Data Analytics Manager,Senior,Full-Time,105400,M,US,US,100,Remote,89590,121209,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,87932,M,FR,DE,100,Remote,74742,101121,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,117789,M,GB,GB,0,On-site,100120,135457,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,215300,L,US,US,100,Remote,183005,247594,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,158200,L,US,US,100,Remote,134470,181930,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,209100,L,US,US,100,Remote,177735,240464,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,154600,L,US,US,100,Remote,131410,177790,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,115934,M,US,US,0,On-site,98543,133324,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,81666,M,US,US,0,On-site,69416,93915,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,175000,M,US,US,100,Remote,148750,201249,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,98158,M,GB,GB,0,On-site,83434,112881,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,58000,S,US,US,0,On-site,49300,66700,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,183600,L,US,US,100,Remote,156060,211139,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,52351,M,GB,GB,100,Remote,44498,60203,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,180000,M,US,US,100,Remote,153000,206999,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,71982,M,GB,GB,0,On-site,61184,82779,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,45807,M,GB,GB,0,On-site,38935,52678,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,65949,M,GR,GR,100,Remote,56056,75841,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,49461,M,GR,GR,100,Remote,42041,56880,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,78526,M,GB,GB,100,Remote,66747,90304,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,58894,M,GB,GB,100,Remote,50059,67728,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,260000,M,US,US,100,Remote,221000,299000,DS_Salaries,USD
+Data Science Engineer,Senior,Full-Time,60000,L,AR,MX,100,Remote,51000,69000,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,63900,M,US,US,0,On-site,54315,73485,DS_Salaries,USD
+Machine Learning Scientist,Mid,Full-Time,160000,L,US,US,100,Remote,136000,184000,DS_Salaries,USD
+Machine Learning Scientist,Mid,Full-Time,112300,L,US,US,100,Remote,95455,129144,DS_Salaries,USD
+Data Science Manager,Mid,Full-Time,241000,M,US,US,100,Remote,204850,277150,DS_Salaries,USD
+Data Science Manager,Mid,Full-Time,159000,M,US,US,100,Remote,135150,182850,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,180000,M,US,US,0,On-site,153000,206999,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,80000,M,US,US,0,On-site,68000,92000,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,82900,M,US,US,0,On-site,70465,95334,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,100800,L,US,US,100,Remote,85680,115919,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,49461,M,ES,ES,100,Remote,42041,56880,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140400,L,US,US,0,On-site,119340,161460,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,39263,M,GB,GB,100,Remote,33373,45152,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,43966,M,ES,ES,100,Remote,37371,50560,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,32974,M,ES,ES,100,Remote,28027,37920,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,87932,M,ES,ES,100,Remote,74742,101121,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,76940,M,ES,ES,100,Remote,65399,88481,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,104702,M,GB,GB,100,Remote,88996,120407,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,91614,M,GB,GB,100,Remote,77871,105356,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,65949,M,ES,ES,100,Remote,56056,75841,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,87932,M,GR,GR,100,Remote,74742,101121,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,189650,M,US,US,0,On-site,161202,218097,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,164996,M,US,US,0,On-site,140246,189745,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,43966,M,GR,GR,100,Remote,37371,50560,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,32974,M,GR,GR,100,Remote,28027,37920,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,98158,M,GB,GB,100,Remote,83434,112881,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,78526,M,GB,GB,100,Remote,66747,90304,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,215300,L,US,US,0,On-site,183005,247594,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,76940,M,GR,GR,100,Remote,65399,88481,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,209100,L,US,US,100,Remote,177735,240464,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,154600,L,US,US,100,Remote,131410,177790,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,180000,M,US,US,100,Remote,153000,206999,DS_Salaries,USD
+ML Engineer,Entry,Full-Time,21983,L,PT,PT,100,Remote,18685,25280,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,80000,M,US,US,100,Remote,68000,92000,DS_Salaries,USD
+Machine Learning Developer,Mid,Full-Time,78791,M,CA,CA,100,Remote,66972,90609,DS_Salaries,USD
+Director of Data Science,Executive,Full-Time,196979,L,CA,CA,50,Hybrid,167432,226525,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,120000,S,US,US,100,Remote,102000,138000,DS_Salaries,USD
+Computer Vision Engineer,Entry,Full-Time,125000,M,US,US,0,On-site,106250,143750,DS_Salaries,USD
+NLP Engineer,Mid,Full-Time,37236,L,US,US,50,Hybrid,31650,42821,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,105000,M,US,US,100,Remote,89250,120749,DS_Salaries,USD
+Lead Machine Learning Engineer,Senior,Full-Time,87932,M,DE,DE,0,On-site,74742,101121,DS_Salaries,USD
+Business Data Analyst,Mid,Full-Time,18442,M,IN,IN,100,Remote,15675,21208,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,31615,L,IN,IN,100,Remote,26872,36357,DS_Salaries,USD
+Machine Learning Infrastructure Engineer,Mid,Full-Time,58255,L,PT,PT,50,Hybrid,49516,66993,DS_Salaries,USD
+Financial Data Analyst,Entry,Full-Time,100000,L,US,US,50,Hybrid,85000,114999,DS_Salaries,USD
+Data Engineer,Mid,Part-Time,54957,L,DE,DE,50,Hybrid,46713,63200,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,18442,M,IN,IN,100,Remote,15675,21208,DS_Salaries,USD
+Principal Data Scientist,Senior,Full-Time,162674,M,DE,DE,100,Remote,138272,187075,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,120000,M,US,US,100,Remote,102000,138000,DS_Salaries,USD
+Research Scientist,Senior,Full-Time,144000,L,US,US,50,Hybrid,122400,165600,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,104890,M,US,US,100,Remote,89156,120623,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,100000,M,US,US,100,Remote,85000,114999,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140000,M,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,135000,M,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,50000,M,US,US,100,Remote,42500,57499,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,220000,M,US,US,100,Remote,187000,252999,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140000,M,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,183228,M,GB,GB,0,On-site,155743,210712,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,91614,M,GB,GB,0,On-site,77871,105356,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,185100,M,US,US,100,Remote,157335,212864,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,220000,M,US,US,100,Remote,187000,252999,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,200000,M,US,US,100,Remote,170000,229999,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,120000,M,US,US,100,Remote,102000,138000,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,120000,S,AE,AE,100,Remote,102000,138000,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,65000,S,AE,AE,100,Remote,55250,74750,DS_Salaries,USD
+Data Engineer,Executive,Full-Time,324000,M,US,US,100,Remote,275400,372600,DS_Salaries,USD
+Data Engineer,Executive,Full-Time,216000,M,US,US,100,Remote,183600,248399,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,210000,M,US,US,100,Remote,178500,241499,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,120000,M,US,US,100,Remote,102000,138000,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,230000,M,US,US,100,Remote,195500,264500,DS_Salaries,USD
+Data Scientist,Entry,Part-Time,100000,M,DZ,DZ,50,Hybrid,85000,114999,DS_Salaries,USD
+Data Scientist,Mid,Freelance,100000,M,CA,US,100,Remote,85000,114999,DS_Salaries,USD
+Applied Machine Learning Scientist,Entry,Contract,31875,M,TN,CZ,100,Remote,27093,36656,DS_Salaries,USD
+Head of Data,Senior,Full-Time,200000,M,MY,US,100,Remote,170000,229999,DS_Salaries,USD
+Principal Data Analyst,Mid,Full-Time,75000,S,CA,CA,100,Remote,63750,86250,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,35590,L,PL,PL,100,Remote,30251,40928,DS_Salaries,USD
+Machine Learning Developer,Senior,Full-Time,78791,M,CA,CA,100,Remote,66972,90609,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,100000,M,BR,US,100,Remote,85000,114999,DS_Salaries,USD
+Machine Learning Scientist,Mid,Full-Time,153000,M,US,US,50,Hybrid,130050,175950,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,58035,M,PK,DE,100,Remote,49329,66740,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,165000,M,US,US,100,Remote,140250,189749,DS_Salaries,USD
+Research Scientist,Senior,Full-Time,93427,L,FR,FR,50,Hybrid,79412,107441,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,52396,L,CA,CA,100,Remote,44536,60255,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,62651,L,NL,NL,100,Remote,53253,72048,DS_Salaries,USD
+Head of Data,Mid,Full-Time,32974,S,EE,EE,100,Remote,28027,37920,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,40000,L,JP,MY,100,Remote,34000,46000,DS_Salaries,USD
+Machine Learning Engineer,Mid,Full-Time,87425,L,AU,AU,100,Remote,74311,100538,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,115000,M,US,US,100,Remote,97750,132250,DS_Salaries,USD
+Data Scientist,Entry,Full-Time,86703,M,AU,AU,50,Hybrid,73697,99708,DS_Salaries,USD
+Applied Machine Learning Scientist,Mid,Full-Time,75000,L,BO,US,100,Remote,63750,86250,DS_Salaries,USD
+Research Scientist,Mid,Full-Time,64849,L,AT,AT,0,On-site,55121,74576,DS_Salaries,USD
+Research Scientist,Entry,Full-Time,120000,L,US,US,100,Remote,102000,138000,DS_Salaries,USD
+Applied Data Scientist,Mid,Full-Time,157000,L,US,US,100,Remote,133450,180550,DS_Salaries,USD
+Computer Vision Software Engineer,Entry,Full-Time,150000,S,AU,AU,100,Remote,127500,172500,DS_Salaries,USD
+Business Data Analyst,Mid,Full-Time,70912,L,CA,CA,50,Hybrid,60275,81548,DS_Salaries,USD
+Data Engineer,Entry,Full-Time,65000,S,US,US,100,Remote,55250,74750,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,71444,S,IE,IE,100,Remote,60727,82160,DS_Salaries,USD
+Data Analytics Engineer,Entry,Full-Time,20000,M,PK,PK,0,On-site,17000,23000,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,48000,S,RU,US,100,Remote,40800,55199,DS_Salaries,USD
+Data Science Manager,Senior,Full-Time,152500,M,US,US,100,Remote,129625,175375,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,68147,M,FR,FR,100,Remote,57924,78369,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,122346,L,CH,CH,0,On-site,103994,140697,DS_Salaries,USD
+Applied Data Scientist,Senior,Full-Time,380000,L,US,US,100,Remote,323000,436999,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,69336,M,CA,CA,100,Remote,58935,79736,DS_Salaries,USD
+Computer Vision Engineer,Entry,Full-Time,10000,M,PT,LU,100,Remote,8500,11500,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,20000,S,GR,GR,100,Remote,17000,23000,DS_Salaries,USD
+Data Analytics Lead,Senior,Full-Time,405000,L,US,US,100,Remote,344250,465749,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,135000,L,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Applied Data Scientist,Senior,Full-Time,177000,L,US,US,100,Remote,150450,203549,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,78000,M,US,US,100,Remote,66300,89700,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,135000,M,US,US,100,Remote,114750,155250,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,100000,M,US,US,100,Remote,85000,114999,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,90320,M,US,US,100,Remote,76772,103867,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,85000,M,CA,CA,0,On-site,72250,97749,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,75000,M,CA,CA,0,On-site,63750,86250,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,214000,M,US,US,100,Remote,181900,246099,DS_Salaries,USD
+Machine Learning Engineer,Senior,Full-Time,192600,M,US,US,100,Remote,163710,221489,DS_Salaries,USD
+Data Architect,Senior,Full-Time,266400,M,US,US,100,Remote,226440,306360,DS_Salaries,USD
+Data Architect,Senior,Full-Time,213120,M,US,US,100,Remote,181152,245087,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,112900,M,US,US,100,Remote,95965,129834,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,155000,M,US,US,100,Remote,131750,178250,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,141300,M,US,US,0,On-site,120105,162495,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,102100,M,US,US,0,On-site,86785,117414,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,115934,M,US,US,100,Remote,98543,133324,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,81666,M,US,US,100,Remote,69416,93915,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,206699,M,US,US,0,On-site,175694,237703,DS_Salaries,USD
+Data Engineer,Mid,Full-Time,99100,M,US,US,0,On-site,84235,113964,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,130000,M,US,US,100,Remote,110500,149500,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,115000,M,US,US,100,Remote,97750,132250,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,110500,M,US,US,100,Remote,93925,127074,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,130000,M,US,US,100,Remote,110500,149500,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,99050,M,US,US,100,Remote,84192,113907,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,160000,M,US,US,100,Remote,136000,184000,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,205300,L,US,US,0,On-site,174505,236094,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140400,L,US,US,0,On-site,119340,161460,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,176000,M,US,US,100,Remote,149600,202399,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,144000,M,US,US,100,Remote,122400,165600,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,200100,M,US,US,100,Remote,170085,230114,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,160000,M,US,US,100,Remote,136000,184000,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,145000,M,US,US,100,Remote,123250,166750,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,70500,M,US,US,0,On-site,59925,81075,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,205300,M,US,US,0,On-site,174505,236094,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140400,M,US,US,0,On-site,119340,161460,DS_Salaries,USD
+Analytics Engineer,Senior,Full-Time,205300,M,US,US,0,On-site,174505,236094,DS_Salaries,USD
+Analytics Engineer,Senior,Full-Time,184700,M,US,US,0,On-site,156995,212404,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,175100,M,US,US,100,Remote,148835,201364,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,140250,M,US,US,100,Remote,119212,161287,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,116150,M,US,US,100,Remote,98727,133572,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,54000,M,US,US,0,On-site,45900,62099,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,170000,M,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,65438,M,GB,GB,0,On-site,55622,75253,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,80000,M,US,US,100,Remote,68000,92000,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140000,M,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,210000,M,US,US,100,Remote,178500,241499,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140000,M,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,100000,M,US,US,100,Remote,85000,114999,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,69000,M,US,US,100,Remote,58650,79350,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,210000,M,US,US,100,Remote,178500,241499,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140000,M,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,210000,M,US,US,100,Remote,178500,241499,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,150075,M,US,US,100,Remote,127563,172586,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,100000,M,US,US,100,Remote,85000,114999,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,25000,M,US,US,100,Remote,21250,28749,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,126500,M,US,US,100,Remote,107525,145475,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,106260,M,US,US,100,Remote,90321,122198,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,220110,M,US,US,100,Remote,187093,253126,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,160080,M,US,US,100,Remote,136068,184092,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,105000,M,US,US,100,Remote,89250,120749,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,110925,M,US,US,100,Remote,94286,127563,DS_Salaries,USD
+Data Analyst,Mid,Full-Time,45807,M,GB,GB,0,On-site,38935,52678,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,140000,M,US,US,100,Remote,119000,161000,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,99000,M,US,US,0,On-site,84150,113849,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,60000,M,US,US,100,Remote,51000,69000,DS_Salaries,USD
+Data Architect,Senior,Full-Time,192564,M,US,US,100,Remote,163679,221448,DS_Salaries,USD
+Data Architect,Senior,Full-Time,144854,M,US,US,100,Remote,123125,166582,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,230000,M,US,US,100,Remote,195500,264500,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,150000,M,US,US,100,Remote,127500,172500,DS_Salaries,USD
+Data Analytics Manager,Senior,Full-Time,150260,M,US,US,100,Remote,127721,172799,DS_Salaries,USD
+Data Analytics Manager,Senior,Full-Time,109280,M,US,US,100,Remote,92888,125671,DS_Salaries,USD
+Data Scientist,Senior,Full-Time,210000,M,US,US,100,Remote,178500,241499,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,170000,M,US,US,100,Remote,144500,195499,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,160000,M,US,US,100,Remote,136000,184000,DS_Salaries,USD
+Data Scientist,Mid,Full-Time,130000,M,US,US,100,Remote,110500,149500,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,67000,M,CA,CA,0,On-site,56950,77050,DS_Salaries,USD
+Data Analyst,Entry,Full-Time,52000,M,CA,CA,0,On-site,44200,59799,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,154000,M,US,US,100,Remote,130900,177100,DS_Salaries,USD
+Data Engineer,Senior,Full-Time,126000,M,US,US,100,Remote,107100,144900,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,129000,M,US,US,0,On-site,109650,148350,DS_Salaries,USD
+Data Analyst,Senior,Full-Time,150000,M,US,US,100,Remote,127500,172500,DS_Salaries,USD
+AI Scientist,Mid,Full-Time,200000,L,IN,US,100,Remote,170000,229999,DS_Salaries,USD
