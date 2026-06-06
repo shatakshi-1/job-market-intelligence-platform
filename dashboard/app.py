@@ -141,13 +141,13 @@ elif page == "💰 Salary Explorer":
         st.plotly_chart(fig, use_container_width=True)
 
     with col2:
-        st.subheader("Salary by Experience Level")
-        exp_map = {'EN': 'Entry', 'MI': 'Mid', 'SE': 'Senior', 'EX': 'Executive'}
-        salaries['exp_label'] = salaries['experience_level'].map(exp_map).fillna(salaries['experience_level'])
-        fig = px.box(salaries, x='exp_label', y='salary_avg',
-                 color='exp_label',
-                 labels={'salary_avg': 'Salary (USD)',
-                         'exp_label': 'Experience'},
+        st.subheader("Avg Salary by Experience Level")
+    exp_map = {'EN': 'Entry', 'MI': 'Mid', 'SE': 'Senior', 'EX': 'Executive'}
+    salaries['exp_label'] = salaries['experience_level'].map(exp_map).fillna(salaries['experience_level'])
+    exp_avg = salaries.groupby('exp_label')['salary_avg'].mean().reset_index()
+    exp_avg.columns = ['Experience', 'Avg Salary']
+    fig = px.bar(exp_avg, x='Experience', y='Avg Salary',
+                 color='Experience',
                  color_discrete_sequence=px.colors.qualitative.Set2)
     fig.update_layout(showlegend=False)
     st.plotly_chart(fig, use_container_width=True)
