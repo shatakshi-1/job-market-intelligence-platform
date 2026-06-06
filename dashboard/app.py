@@ -138,9 +138,7 @@ elif page == "💰 Salary Explorer":
 
     with col2:
         st.subheader("Salary by Experience Level")
-        order = ['Entry', 'Mid', 'Senior', 'Executive']
-        fig = px.box(salaries, x='experience_level', y='salary_avg',
-                     category_orders={'experience_level': order},
+        fig = px.box(salaries, x='experience_level', y='salary_avg',                 
                      color='experience_level',
                      labels={'salary_avg': 'Salary (USD)',
                              'experience_level': 'Experience'},
