@@ -166,23 +166,19 @@ elif page == "💰 Salary Explorer":
     fig.update_layout(yaxis={'categoryorder': 'total ascending'}, height=500)
     st.plotly_chart(fig, use_container_width=True)
 
-    st.subheader("Salary by Company Size")
+    st.subheader("Avg Salary by Company Size")
     salaries['company_size_label'] = salaries['company_size'].map(
-        {'S': 'Small', 'M': 'Medium', 'L': 'Large'}
-    )
-    size_order = ['Small', 'Medium', 'Large']
-    fig = px.violin(salaries, x='company_size_label', y='salary_avg',
-                    color='company_size_label', box=True,
-                    labels={'salary_avg': 'Salary (USD)',
-                            'company_size_label': 'Company Size'},
-                    color_discrete_sequence=['#42A5F5', '#66BB6A', '#FFA726'])
-    fig.update_layout(showlegend=False)
-    st.plotly_chart(fig, use_container_width=True)
+    {'S': 'Small', 'M': 'Medium', 'L': 'Large'}
+    ).fillna(salaries['company_size'])
+size_avg = salaries.groupby('company_size_label')['salary_avg'].mean().reset_index()
+size_avg.columns = ['Company Size', 'Avg Salary']
+fig = px.bar(size_avg, x='Company Size', y='Avg Salary')
+fig.update_layout(showlegend=False)
+st.plotly_chart(fig, use_container_width=True)
 
 # ══════════════════════════════════════════════════════════
 # PAGE 3 — SKILLS ANALYSIS
 # ══════════════════════════════════════════════════════════
-
 elif page == "🛠️ Skills Analysis":
 
     st.title("🛠️ Skills Analysis")
